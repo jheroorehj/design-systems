@@ -26,3 +26,7 @@ curl -fsSL https://raw.githubusercontent.com/jheroorehj/design-systems/main/swif
 ## 쓰는 곳
 
 - [QuotaBar](https://github.com/jheroorehj/QuotaBar) — macOS 메뉴바 앱. iOS 기준 문서라 터치 영역 크기·내비게이션 규칙은 macOS 에 그대로 적용하지 않습니다.
+
+## 라이선스
+
+[MIT](LICENSE)
