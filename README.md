@@ -25,7 +25,17 @@ curl -fsSL https://raw.githubusercontent.com/jheroorehj/design-systems/main/swif
 
 ## 쓰는 곳
 
-- [QuotaBar](https://github.com/jheroorehj/QuotaBar) — macOS 메뉴바 앱. iOS 기준 문서라 터치 영역 크기·내비게이션 규칙은 macOS 에 그대로 적용하지 않습니다.
+- [QuotaBar](https://github.com/jheroorehj/QuotaBar) — macOS 메뉴바 앱
+
+### Mac 앱에서 쓸 때
+
+이 문서는 아이폰·아이패드 앱을 기준으로 썼습니다. Mac 앱에서는 일부만 따릅니다.
+
+| | 규칙 | Mac 에서 |
+| --- | --- | --- |
+| 그대로 따름 | 간격 값(4 · 8 · 12 · 16 …), 시스템 색, 유리 위에 유리를 겹치지 않기, 접근성 설정 대응 | 똑같이 적용합니다 |
+| 따르지 않음 | 버튼을 최소 44 × 44 pt 로 | 손가락이 아니라 마우스로 누르므로 더 작아도 됩니다 |
+| 따르지 않음 | 탭 바, 뒤로 가기, 밀어서 돌아가기, 아래에서 올라오는 시트 | 아이폰식 화면 이동이라 Mac 의 창·메뉴 구조와 맞지 않습니다 |
 
 ## 라이선스
 
